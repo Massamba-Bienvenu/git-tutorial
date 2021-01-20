@@ -35,6 +35,29 @@
 // 1. create a file name .gitignore
 // 2. in the .gitignore file add names of files to be ignored with extensions
 
-//ignoring some files
+//BRANCHES
+// 1. create a new branch
+/git branch [branch-name]/
 
-//ADDING ENTIRE DIRECTORIES
+// 2. Switch to a brach 
+/git checkout  [branch-name]/
+
+// 3. Delete the specified branch
+/git branch -d  [branch-name]/
+
+// 4. find out which branch
+/git branh/
+
+//5. See all local and remote branches
+/git branch -a/ 
+// 6. see remote branch
+/git branch -r/
+
+// 7. switch to Master or main branch
+/git checkout main/
+
+// 8. Combine specified branch to current
+// a. first commit current changes
+// a. second switch to main or master branch
+// b. third merge to the main branch the other branches
+
