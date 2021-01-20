@@ -61,3 +61,4 @@
 // a. second switch to main or master branch
 // b. third merge to the main branch the other branches
 
+// push your Git branch to the remote repository
