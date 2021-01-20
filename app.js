@@ -26,3 +26,6 @@
 //COMMIT CHANGES
 /git commit/
 /Esc :wq/
+
+//COMMIT CHANGES BETTER
+/git commit -m "message"/
