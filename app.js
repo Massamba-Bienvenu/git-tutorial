@@ -37,3 +37,4 @@
 
 //ignoring some files
 
+/ Thanks/
