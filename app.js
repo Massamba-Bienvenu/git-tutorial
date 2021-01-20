@@ -38,3 +38,9 @@
 //ignoring some files
 
 //ADDING ENTIRE DIRECTORIES
+/git add./
+/git commit -m "message"/
+
+// BRANCHES
+// 1. Create a branch
+/git branch branch_name/
