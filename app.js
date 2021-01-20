@@ -23,3 +23,6 @@
 // Remove any html files from the staging area
 /git rm --cached *.html/
 
+//COMMIT CHANGES
+/git commit/
+/Esc :wq/
