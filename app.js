@@ -68,3 +68,9 @@
 //Check remote repositories
 / git remote/
 
+
+// clone a github repository
+/git clone https://github.com/Massamba-Bienvenu/git-tutorial.git/
+
+// To see changes
+/git pull/
