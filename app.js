@@ -37,4 +37,4 @@
 
 //ignoring some files
 
-/ Thanks/
+//ADDING ENTIRE DIRECTORIES
