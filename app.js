@@ -72,5 +72,16 @@
 // clone a github repository
 /git clone https://github.com/Massamba-Bienvenu/git-tutorial.git/
 
-// To see changes
-/git pull/
+// push your Git branch to the remote repository
+/git add ./
+/git commit -m "push branch"/
+
+ //If its your first push
+/git push -u origin BRANCH/
+
+ //Otherwise
+/git push origin BRANCH/
+
+//push all branches to remote
+/git push REMOTE '*:*'/
+/git push REMOTE --all/
