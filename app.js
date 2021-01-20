@@ -29,3 +29,11 @@
 
 //COMMIT CHANGES BETTER
 /git commit -m "message"/
+
+
+// IGNORING SOME FILES
+// 1. create a file name .gitignore
+// 2. in the .gitignore file add names of files to be ignored with extensions
+
+//ignoring some files
+
