@@ -44,3 +44,5 @@
 // BRANCHES
 // 1. Create a branch
 /git branch branch_name/
+// 2. Switch to a branch
+/git checkout mybranch/
